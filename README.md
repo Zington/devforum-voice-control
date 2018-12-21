@@ -6,7 +6,7 @@ Målen med kvällens workshop är att alla ska ha skrivit sin egen Google Assist
 ## Agenda:
 -	Vad är röststyrning
 -	Göra appar för Google Assistant
--	Dialogflow
+-	AI och Machine Learning med hjälp av DialogFlow
 -	Webhooks
     - Exempel på Webhook med .NET
     - Exempel på Webhook med Node.js
