@@ -17,12 +17,11 @@ Målen med kvällens workshop är att alla ska ha skrivit sin egen Google Assist
 -	Ca 20.30: Slut
 
 ## Förberedelser
-- Gör förberedelseenkäten på 
--	Testa gärna innan genomgången att starta Google Assistant och be hen att prata med ICA.
+-	Testa att starta Google Assistant och be hen att prata med ICA.
 -	Läs på om Google Assistant:s API:er: https://developers.google.com/actions/
 -	Gör en exempelapp i DialogFlow: https://dialogflow.com/docs/getting-started
--	Se till att ni har ett fungerande github-konto
--	Se till att ni har en fungerande utvecklingsmiljö i antingen .NET eller Node.js
+-	Se till att du har ett fungerande github-konto
+-	Se till att du har en fungerande utvecklingsmiljö i antingen .NET eller Node.js
 
 Varmt välkommen!
 
